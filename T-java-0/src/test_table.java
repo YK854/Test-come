@@ -40,7 +40,7 @@ public class test_table {
 		System.out.println("問題４");
 		//要素数20の配列を宣言し、要素に0から5ずつ加算して代入させる。[0]~[10]の値の
 		//奇数のみカンマ区切りで、[11]~[19]の値は偶数をカンマ区切りで表示させる
-//		aaa
+//		
 		int[] d = new int[20];
 		int ddd = 0;
 		for(int dd = 0; dd <= d.length; dd++) {
